@@ -1,0 +1,45 @@
+
+
+body {
+    height: 100vh;              
+    margin: 0;                 
+    display: flex;              
+    justify-content: center;     
+    align-items: center;        
+    background-image: url("/images/tasbeeh-gold.png");
+    background-size: cover;   
+}
+
+#Tasbeeh {
+    border: 2px solid gold;
+    width: 500px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;     
+    align-items: center;        
+    justify-content: center;     
+    background: rgb(22, 19, 19);
+    border-radius: 12px;
+}
+
+
+h2{
+    color: white;
+    font-size: large;
+    font-weight: 500;
+}
+
+
+
+
+
+
+button{
+    color: white;
+    background-color: gold;
+    font-size: larger;
+    font-weight: 700;
+    padding: 12px;
+    width: 74px;
+
+}
